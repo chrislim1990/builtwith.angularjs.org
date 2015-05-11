@@ -3688,7 +3688,21 @@
         "Responsive",
         "Cloud"
       ]
-    }
-
+    },
+    {
+      "name": "LX2.com.my",
+      "thumb": "lxii/thumb.png",
+      "desc": "Design studio website with AngularJS as frontend and WordPress as backend",
+      "url": "http://lx2.com.my",
+      "info": "http://lx2.com.my",
+      "submitter": "chrislim1990",
+      "submissionDate": "2015-05-11",
+      "tags": [
+        "WordPress",
+        "CSS3",
+        "Design",
+        "Production"
+      ]
+    },
   ]
 }
